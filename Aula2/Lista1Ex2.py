@@ -8,8 +8,8 @@ valorcasa = 0.6
 valorcomercio = 0.48
 valorindustria = 1.29
 
-tipo = int(input("Qual é o seu tipo de local:\n1 - Casa\n2 - Comercio\n3 - Industria"))
-quantidade = float(input("Quantos KW/h você consumiu nos ultimos 30 dias?"))
+tipo = int(input("Qual é o seu tipo de local:\n1 - Casa\n2 - Comercio\n3 - Industria\n"))
+quantidade = float(input("Quantos KW/h você consumiu nos ultimos 30 dias?\n"))
 
 if tipo == 1:
     valorfinal = quantidade * valorcasa

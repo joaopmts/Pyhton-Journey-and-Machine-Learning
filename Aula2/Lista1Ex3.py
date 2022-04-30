@@ -5,9 +5,9 @@ graduacao = 2
 posgraduacao = 3
 
 nome = input("Qual o seu nome?")
-titulacao = int(input("Qual a sua titulação?\n1 - Segundo Grau\n2 - Graduação\n3 - Pós Graduação"))
-idade = int(input("Quantos anos de experiencia voce possui?"))
-experiencia = int(input("Quantos anos você tem?"))
+titulacao = int(input("Qual a sua titulação?\n1 - Segundo Grau\n2 - Graduação\n3 - Pós Graduação\n"))
+idade = int(input("Quantos anos de experiencia voce possui?\n"))
+experiencia = int(input("Quantos anos você tem?\n"))
 
 pontos = 0
 

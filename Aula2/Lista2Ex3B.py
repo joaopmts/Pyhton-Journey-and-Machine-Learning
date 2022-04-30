@@ -1,7 +1,7 @@
 print("Inverter sem 3a variavel")
 
-a = int(input("Digite um numero"))
-b = int(input("Digite um segundo numero"))
+a = int(input("Digite um numero:\n"))
+b = int(input("Digite um segundo numero:\n"))
 
 print(f"A {a}")
 print(f"B {b}")

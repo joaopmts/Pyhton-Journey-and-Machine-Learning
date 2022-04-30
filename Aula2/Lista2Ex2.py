@@ -1,6 +1,6 @@
 print("Calculadora de Duração do Filme")
 
-min = int(input("Quantas horas tem o filme em minutos"))
+min = int(input("Quantas horas tem o filme em minutos?\n"))
 
 horas = min / 60
 #horas = min // 60
