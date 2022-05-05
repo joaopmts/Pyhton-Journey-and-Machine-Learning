@@ -1,6 +1,6 @@
 import os
 import json
-from funcoes import agenda_para_texto
+from funcoes import *
 
 local = f"{os.path.dirname(__file__)}\\arquivos\\star_wars2.json"
 
@@ -9,5 +9,4 @@ with open(local,encoding="UTF-8",mode="r") as arquivo:
 
 c2 = json.loads(c)
 
-
-print(agenda_para_texto(c2))
+print(dict_to_text(c2))
