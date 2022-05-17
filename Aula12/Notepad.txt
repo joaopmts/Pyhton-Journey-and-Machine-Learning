@@ -1,0 +1,3 @@
+Arquivo Sorteio_amostra
+
+Calculos para saber se os valores de media e ver os intervalores de confiança, se a media estiver dentro do interlavo o valor é aceito.

@@ -1,0 +1,11 @@
+Aqruivo nocoes+probabilidade
+
+analise combinatoria simples - para saber chances de um grupo de elementos dentro de um grupo
+distribuição de probabilidade
+
+variabel discreta
+	distribuição de poisson - chance de ocorrer para um condição x
+variavel continua
+	distribuição normal - usa-se da area do grafico para calcular a probabilidade
+
+padronização e normalização de variaveis
