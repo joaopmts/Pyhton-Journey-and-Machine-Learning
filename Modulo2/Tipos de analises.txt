@@ -1,0 +1,21 @@
+Tecnicas de Classificação
+
+Técnicas supervisionadas (Tem variavel target)
+Quantitativas
+Regressão Linear - Faz um equação para a estimativa do valor
+Categorica
+Regressão Logistica - Estima um score para tao categorização, pontuação x força da variavel
+Arvore de Decisão - Cria regras para a classificação
+
+Técnicas não supervisionadas(Nao tem variavel target)
+Analise de Agrupamento
+Cluster Analysis
+	Metodo Não Hierarquico - KMEANS
+		Metodo de Elbow
+		Metodo Sulhueta
+	Metodo Hierarquico
+		Metodo Single Linkage
+		Avarage Linkage
+
+Sumarização - Redução da dimensionalidade
+	PCA - Principal Components Analytics - Gerar um numero menor de variaveis com base em variaveis correlacionadas
